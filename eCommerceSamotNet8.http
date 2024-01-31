@@ -1,0 +1,6 @@
+@eCommerceSamotNet8_HostAddress = http://localhost:5017
+
+GET {{eCommerceSamotNet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
