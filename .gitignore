@@ -2,3 +2,6 @@
 eCommerceSamotNet8.csproj
 appsettings.json
 bin/Debug/
+obj/
+eCommerceSamotNet8.csproj
+appsettings.json
