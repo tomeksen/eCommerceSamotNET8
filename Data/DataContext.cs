@@ -10,6 +10,11 @@ namespace eCommerceSamotNet8.Data
 
         }
 
-        public DbSet<Users> Users { get; set; }
+        public DbSet<Users> users { get; set; }
+        public DbSet<Products> products { get; set; }
+        public DbSet<Orders> orders { get; set; }
+        public DbSet<OrderLines> orderLines { get; set; }
+        public DbSet<DeliveryAddress> deliveryAddress { get; set; }
+
     }
 }
